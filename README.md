@@ -32,7 +32,7 @@ The work is subdivide as it follows :
 
          - We will use a two stage model : First stage , Logistic Regression and at the secong stage Linear Regression 
 
->>>>     <b> - EAD Model </b>
+>>>> <b>  - EAD Model </b>
                     
          - We will use a Linear Regression modeling
 
