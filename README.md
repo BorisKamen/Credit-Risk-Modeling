@@ -36,12 +36,6 @@ The work is subdivide as it follows :
                     
          - We will use a Linear Regression modeling
 
-<b>RESULTS : </b> We obtain for this loans portfolio with a total amount of 
-<center> So the <b> Expected Loss </b> of this portfolio of <b> loans </b>  represent <span style='color:red'> 7.6 % </span>  of the  portfolio total amount which is almost   <span style='color:red'> $\color{red}{6.665  \text{ billions}.}$</center>
-
->>> <center><b>The Expected Loss </b> for this entire loan's portfolio is
-$\color{red}{\huge{511.655152 \:}millions}$ </center>
-
-           
-    
-
+<b>RESULTS : </b> We obtain for this loans portfolio with a total amount of <b> 6.67 Billlions<b> 
+      >>>>>>> The <b>Expected Loss</b> is approximatively <b>7.6 %</b> of the portfolio total amount, that is <b>511.66 Millions</b>
+      >>>>>>> The Regulatory capital is approximatively <b>5.3 %</b> of the portfolio total amount, that is <b>357.79 Millions</b>
