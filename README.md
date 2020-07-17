@@ -5,7 +5,7 @@ Probability of Default (PD), Loss Given Default (LGD) and Exposure at Default (E
 
 The data set used for this purpose, is a <b>portofolio of 466285 loans</b> open-source data (on Kaggle) and our purpose is to build models that are compliant with Basel II and Basel III Bank's regulations.
 
-The Data set is well describe in the DataPreparation file !!! And there is a link to download it.
+The Data set is well described in the DataPreparation file !!! And there is a link to download it. The data are from 2007 - 2014. and we use year 2015 to monotor the obtained PD model. 
 
 At the end of this work, we compute the <b>Expected Loss (EL)</b> and the <b>Regulatory Capital (F- IRB) </b>  that will be expected by the regulations for this loans portfolio.
 
@@ -36,6 +36,11 @@ The work is subdivide as it follows :
                     
          - We will use a Linear Regression modeling
 
+<b>RESULTS : </b> We obtain for this loans portfolio with a total amount of 
+<center> So the <b> Expected Loss </b> of this portfolio of <b> loans </b>  represent <span style='color:red'> 7.6 % </span>  of the  portfolio total amount which is almost   <span style='color:red'> $\color{red}{6.665  \text{ billions}.}$</center>
+
+>>> <center><b>The Expected Loss </b> for this entire loan's portfolio is
+$\color{red}{\huge{511.655152 \:}millions}$ </center>
 
            
     
