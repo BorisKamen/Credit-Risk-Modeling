@@ -9,6 +9,11 @@ The Data set is well described in the DataPreparation file !!! And there is a li
 
 At the end of this work, we compute the <b>Expected Loss (EL)</b> and the <b>Regulatory Capital (F- IRB) </b>  that will be expected by the regulations for this loans portfolio.
 
+<b>RESULTS : </b> We obtain for this loans portfolio with a total amount of <b> 6.67 Billlions<b> 
+>>>>>>> The <b>Expected Loss</b> is approximatively <b>7.6 %</b> of the portfolio total amount, that is <b>511.66 Millions</b>
+>>>>>>> The Regulatory capital is approximatively <b>5.3 %</b> of the portfolio total amount, that is <b>357.79 Millions</b>
+Look to the file LGD-EAD EL-RegCap to see these results directly.
+
 The main Data Science techniques used in this project are :
 
 - Weight of evidence   - Information value   - Fine classing   - Coarse classing   - Linear regression - Logistic regression
@@ -36,6 +41,3 @@ The work is subdivide as it follows :
                     
          - We will use a Linear Regression modeling
 
-<b>RESULTS : </b> We obtain for this loans portfolio with a total amount of <b> 6.67 Billlions<b> 
->>>>>>> The <b>Expected Loss</b> is approximatively <b>7.6 %</b> of the portfolio total amount, that is <b>511.66 Millions</b>
->>>>>>> The Regulatory capital is approximatively <b>5.3 %</b> of the portfolio total amount, that is <b>357.79 Millions</b>
