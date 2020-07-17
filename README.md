@@ -1,10 +1,13 @@
 # A Complete Cycle of Credit Risk Modelling 
-As a Data Science project, We aim to use data science techniques to model three important notions in Credit risk management :
+
+As a Machine learning project, We aim to use data science techniques to model three important notions in Credit risk management :
 Probability of Default (PD), Loss Given Default (LGD) and Exposure at Default (EAD).
 
-The data set used for this purpose, is a <b>portofolio of 466285 loans</b> open-source data (on Kaggle) and our purpose is to build models that are compliant with Basel II and Basel III regulations.
+The data set used for this purpose, is a <b>portofolio of 466285 loans</b> open-source data (on Kaggle) and our purpose is to build models that are compliant with Basel II and Basel III Bank's regulations.
 
-We at the end of this work, compute the <b>Expected Loss (EL)</b> and the <b>Regulatory Capital </b> (F- IRB) that will be expected by the regulations for this portfolio.
+The Data set is well describe in the DataPreparation file !!! And there is a link to download it.
+
+At the end of this work, we compute the <b>Expected Loss (EL)</b> and the <b>Regulatory Capital (F- IRB) </b>  that will be expected by the regulations for this loans portfolio.
 
 The main Data Science techniques used in this project are :
 
@@ -29,7 +32,7 @@ The work is subdivide as it follows :
 
          - We will use a two stage model : First stage , Logistic Regression and at the secong stage Linear Regression 
 
->>>> <b> IV - EAD Model </b>
+>>>>     <b> - EAD Model </b>
                     
          - We will use a Linear Regression modeling
 
