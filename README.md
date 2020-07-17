@@ -37,5 +37,5 @@ The work is subdivide as it follows :
          - We will use a Linear Regression modeling
 
 <b>RESULTS : </b> We obtain for this loans portfolio with a total amount of <b> 6.67 Billlions<b> 
-      >>>>>>> The <b>Expected Loss</b> is approximatively <b>7.6 %</b> of the portfolio total amount, that is <b>511.66 Millions</b>
-      >>>>>>> The Regulatory capital is approximatively <b>5.3 %</b> of the portfolio total amount, that is <b>357.79 Millions</b>
+>>>>>>> The <b>Expected Loss</b> is approximatively <b>7.6 %</b> of the portfolio total amount, that is <b>511.66 Millions</b>
+>>>>>>> The Regulatory capital is approximatively <b>5.3 %</b> of the portfolio total amount, that is <b>357.79 Millions</b>
