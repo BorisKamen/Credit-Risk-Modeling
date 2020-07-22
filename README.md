@@ -1,7 +1,7 @@
 # A Complete Cycle of Credit Risk Modelling 
 
 As a Machine learning project, We aim to use data science techniques to model three important notions in Credit risk management :
-Probability of Default (PD), Loss Given Default (LGD) and Exposure at Default (EAD).
+Probability of Default (PD), Loss Given Default (LGD - Recovery rate) and Exposure at Default (EAD - CCF).
 
 The data set used for this purpose, is a <b>portofolio of 466285 loans</b> open-source data (on Kaggle) and our purpose is to build models that are compliant with Basel II and Basel III Bank's regulations.
 
